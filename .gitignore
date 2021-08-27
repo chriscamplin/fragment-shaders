@@ -1,2 +1,10 @@
 ./*/*.png
 ./node_modules
+*/*.png
+*/*.mp4
+*/*.wav
+*/*/*.png
+*/*/*.mp4
+*/*/*.wav
+
+node_modules
